@@ -6,7 +6,7 @@ Click the image below to play a sample video:
 
 [![SunVid test project video](sunvox-test-project.png)](sunvid-test-project.mp4)
 
-# You Can Join This Server has sunvid compatible with sunbot
+# You Can Join This Server Has Sunvid Compatible With Sunbot
 
 [![comunity](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/2wVhZJjYTv)
 
