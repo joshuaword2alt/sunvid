@@ -1,5 +1,9 @@
 # SunVid
 
+# These Servers
+
+[![comunity](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/2wVhZJjYTv)
+
 SunVid creates mp4 files from [SunVox](https://warmplace.ru/soft/sunvox/) projects.
 
 Click the image below to play a sample video:
